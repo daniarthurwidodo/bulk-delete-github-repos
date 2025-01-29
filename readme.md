@@ -1,8 +1,8 @@
-### how to run
+# How to run
 
 - create .env file
 
-```
+```text
 GITHUB_USERNAME=your_github_userrname
 GITHUB_TOKEN=your_generated_token
 ```
